@@ -16,3 +16,11 @@ Lista de pasos a seguir en un proyecto
 ---
 [GF](https://www.gregoriofer.com)
 Imagen corporativa ![LogoGF](https://gregoriofer.com/logo.jpg)
+
+Trabajadores del proyecto
+| Identificador | Nombre alumno |
+| ----------- | ----------- |
+| 1 | Yeray |
+| 2 | Marcos |
+| 3 | Luis |
+| 4 | Juan |
