@@ -12,7 +12,7 @@ Lista de pasos a seguir en un proyecto
 - Crearlo 
 - Desarrollarlo
 - Comentarlo
-`código de markdown`
+`String variable="Esto es una cadena de texto"`
 ---
 [GF](https://www.gregoriofer.com)
 Imagen corporativa ![LogoGF](https://gregoriofer.com/logo.jpg)
