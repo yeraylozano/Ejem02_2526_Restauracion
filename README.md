@@ -14,5 +14,5 @@ Lista de pasos a seguir en un proyecto
 - Comentarlo
 `código de markdown`
 ---
-[Google](https://www.google.es)
-![alt text](image.jpg)
+[GF](https://www.gregoriofer.com)
+Imagen corporativa ![LogoGF](https://gregoriofer.com/logo.jpg)
